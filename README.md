@@ -18,5 +18,5 @@ so im gonna try publish new versions of the calculator.
 
 ## Download
 <code> [wrc-beta.zip(bugged)](https://github.com/user-attachments/files/26458349/wrc-beta.zip) </code>\
-<code> [wrc-beta-fixed.zip(bug fixed)](https://github.com/user-attachments/files/26467520/wrc-beta-fixed.zip) </code>\
+<code> [wrc-beta-fixed.zip(bug fixed)](https://github.com/user-attachments/files/26467520/wrc-beta-fixed.zip) </code>
 
