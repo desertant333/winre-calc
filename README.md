@@ -17,4 +17,6 @@ so im gonna try publish new versions of the calculator.
 <img width="551" height="350" alt="Снимок экрана 2026-04-03 143138" src="https://github.com/user-attachments/assets/a19220eb-cd60-4c58-821d-9d0a687c68ab" />
 
 ## Download
-<code> [wrc-beta.zip](https://github.com/user-attachments/files/26458349/wrc-beta.zip) </code>
+<code> [wrc-beta.zip(bugged)](https://github.com/user-attachments/files/26458349/wrc-beta.zip) </code>
+[wrc-beta-fixed.zip(bug fixed)](https://github.com/user-attachments/files/26467520/wrc-beta-fixed.zip)
+
